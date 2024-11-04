@@ -1,10 +1,15 @@
 body {
   background-color: green;
 }
-img {
-  height: 50%;
-}
 h1 {
   color: white;
   text-align: center;
 }
+h2 {
+  color: red;
+  text-align: center;
+}
+img {
+  height: 50%;
+}
+
